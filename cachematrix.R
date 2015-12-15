@@ -21,7 +21,6 @@
 ##     3. setinverse - sets the invere matrix in the matrix inv
 ##     4. getinverse - retrieves the inverse matrix from inv
 
-
 makeCacheMatrix <- function(x = matrix()) {
     
     inv <- NULL
